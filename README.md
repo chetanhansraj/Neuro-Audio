@@ -15,8 +15,21 @@ Tinnitus affects millions, but professional treatments are often expensive or in
 * **Visualizer:** Real-time feedback to confirm the audio is active.
 * **Offline Capable:** Install it on your phone and use it without internet.
 
+## 🚀 Try It Live
+[https://chetanhansraj.github.io/Neuro-Audio/]
+
+## 📲 How to Install on Mobile
+This tool works best when installed as an App on your phone.
+
+**For iPhone (iOS):**
+1. Open the link in **Safari**.
+2. Tap the **Share** button (box with an arrow up).
+3. Scroll down and tap **"Add to Home Screen"**.
+
+**For Android:**
+1. Open the link in **Chrome**.
+2. Tap the **three dots** (menu) at the top right.
+3. Tap **"Install App"** or **"Add to Home Screen"**.
+
 ## ⚠️ Disclaimer
 This tool is not a replacement for professional medical advice. It is a wellness tool based on established acoustic principles. Always keep the volume **low** (barely audible). If your symptoms worsen, discontinue use immediately.
-
-## 🚀 Try It Live
-[Link to your live app will go here]
