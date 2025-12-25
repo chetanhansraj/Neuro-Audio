@@ -1,0 +1,16 @@
+{
+  "name": "NeuroAudio",
+  "short_name": "NeuroAudio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f0f13",
+  "theme_color": "#0f0f13",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "Neuro-Audio.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
